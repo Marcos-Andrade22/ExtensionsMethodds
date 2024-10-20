@@ -1,0 +1,14 @@
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\bin\Debug\net8.0\ExtensionsMethodds.exe
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\bin\Debug\net8.0\ExtensionsMethodds.deps.json
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\bin\Debug\net8.0\ExtensionsMethodds.runtimeconfig.json
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\bin\Debug\net8.0\ExtensionsMethodds.dll
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\bin\Debug\net8.0\ExtensionsMethodds.pdb
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.AssemblyInfoInputs.cache
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.AssemblyInfo.cs
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.csproj.CoreCompileInputs.cache
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.dll
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\refint\ExtensionsMethodds.dll
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.pdb
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ExtensionsMethodds.genruntimeconfig.cache
+D:\Vianna\ProgramacaoFullStack\.net\ExtensionsMethodds\obj\Debug\net8.0\ref\ExtensionsMethodds.dll
